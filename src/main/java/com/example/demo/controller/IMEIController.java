@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping(path="/home",produces="application/json")
+@RequestMapping(path="/",produces="application/json")
 @CrossOrigin(origins="*")       
 public class IMEIController {
   @PostMapping(consumes="application/json")
