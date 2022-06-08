@@ -1,4 +1,7 @@
-Returns a digit that should be replaced with last digit of input IMEI to make it a valid IMEI.
+<h1> IMEI Checker
+
+
+<b> Returns a digit that should be replaced with last digit of input IMEI to make it a valid IMEI.
 
 api:
 
